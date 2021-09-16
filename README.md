@@ -1,0 +1,2 @@
+# JavaScript
+JavaScriptdan mavzular
